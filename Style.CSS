@@ -1,0 +1,4 @@
+/* CSS don't need boiler plate, we write direct selectors */
+h1 {color: red; text-align: center; background-color: black;}
+p {color: blue; font-family: sans-serif;}
+body,img.intro {width: 200; height: 200;}
